@@ -1,0 +1,8 @@
+name: Colortext
+main: colortext.Colortexts
+version: 2.0
+author: Sicknote45
+
+commands:
+   colortext:
+      description: shows color possibilities
